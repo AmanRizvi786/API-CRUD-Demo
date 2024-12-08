@@ -1,0 +1,7 @@
+H.W (03/12/24)
+
+# Product API with all methods
+
+# Cart API with all methods
+
+LINK : https://fakestoreapi.com/docs 
